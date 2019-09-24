@@ -1,0 +1,9 @@
+version: "3"
+services:
+  hxd:
+    build: hxd
+    ports:
+     - "5500:5500"
+     - "5501:5501"
+    volumes:
+     - ./data:/data # modified here to take into account the new app path

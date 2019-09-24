@@ -1,0 +1,2 @@
+[24/09/2019:20:24:40]	hxd version 0.4.11 started, hxd_open_max = 1024
+[24/09/2019:20:24:40]	hlserver.c:829: bind(0.0.0.0:5500): Address already in use
